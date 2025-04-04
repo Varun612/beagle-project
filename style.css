@@ -1,0 +1,16 @@
+.div1 {
+	border: 1px solid;
+	padding:10px;
+}
+.heading {
+	text-decoration: underline;
+	margin-bottom:22px;
+}
+.readMore {
+	text-decoration: none;
+}
+.image {
+	height: 150px;
+	width: 300px;
+	margin-bottom:10px;
+}
